@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+Welcome to my github :)
+
+Below are a few things that I take interest in:
+- Perception algorithms for Autonomous Vehicles, Robots, etc.
+- Creating Agents using LLMs
+- Deep RL 
+
 <!--
 **mehullakra/mehullakra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
