@@ -7,7 +7,7 @@ Below are a few things that I take interest in:
 - Creating Agents using LLMs
 - Deep RL 
 
-Courses I really like:
+Learning resources I really like:
 
 [Practical Deep Learning for Coders](https://course.fast.ai/)
 <!--
