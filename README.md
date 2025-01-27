@@ -7,8 +7,8 @@ Below are a few things that I take interest in:
 - Creating Agents using LLMs
 - Deep RL 
 
-also generally interested in how machine learning works in every domain.
-<br>
+also generally interested in how machine learning works in every domain.  
+<br>  
 
 Learning resources I really like:
 
