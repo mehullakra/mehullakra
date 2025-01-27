@@ -9,6 +9,7 @@ Below are a few things that I take interest in:
 
 also generally interested in how machine learning works in every domain.
 
+
 Learning resources I really like:
 
 [Practical Deep Learning for Coders](https://course.fast.ai/)
