@@ -8,8 +8,9 @@ Below are a few things that I take interest in:
 - Deep RL 
 
 also generally interested in how machine learning works in every domain.  
-<br>
-
+  
+my environment: windows 11 with wsl ubuntu 24.04, i7 12700H, rtx 3070  
+  
 Learning resources I really like:
 
 [Practical Deep Learning for Coders](https://course.fast.ai/)
