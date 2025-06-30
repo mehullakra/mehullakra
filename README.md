@@ -9,7 +9,7 @@ Below are a few things that I take interest in:
 
 also generally interested in how machine learning works in every domain.  
   
-my environment: windows 11 with wsl ubuntu 24.04, i7 12700H, rtx 3070  
+my environment: 2025 Macbook Air (Apple M4), 16GB RAM  
   
 Learning resources I really like:
 
